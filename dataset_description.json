@@ -1,21 +1,21 @@
 {
-  "Acknowledgements": "n/a",
-  "Authors": [
-    "Bruno Direito",
-    "..."
-  ],
-  "BIDSVersion": "1.4.1",
-  "DatasetDOI": "TODO: eventually a DOI for the dataset",
-  "Funding": [
-    "TODO",
-    "GRANT #1",
-    "GRANT #2"
-  ],
-  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-  "Name": "TODO: name of the dataset",
-  "ReferencesAndLinks": [
-    "TODO",
-    "List of papers or websites"
-  ]
+    "Acknowledgements": "n/a",
+    "Authors": [
+        "Bruno Direito",
+        "..."
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+        "TODO",
+        "GRANT #1",
+        "GRANT #2"
+    ],
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "Targeting dynamic facial processing mechanisms in superior temporal sulcus using a novel fMRI neurofeedback target",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
 }
