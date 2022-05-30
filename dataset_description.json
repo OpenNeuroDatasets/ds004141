@@ -1,5 +1,5 @@
 {
-  "Acknowledgements": "n/a",
+  "Acknowledgements": "We thank Carlos Ferreira and Sónia Afonso for assistance with task and participant preparation, João Castelhano for assistance with Acquisition protocol and EEG-fMRI setup optimization",
   "Authors": [
     "Bruno Direito",
     "Marco Simões",
@@ -10,13 +10,13 @@
   "DatasetDOI": "TODO: eventually a DOI for the dataset",
   "Funding": [
     "European project BRAINTRAIN-FP7-HEALTH-2013-INNOVATION-1-602186",
-    "Fundação para a Ciência e Tecnologia (PEST - UID/NEU/04539/2013, COMPETE, POCI 01-0145-FEDER 007440, COMPETE, POCI 01-0145-FEDER 007440)",
-    "MS is supported by the Fundação para a Ciência e Tecnologia (grant SFRH/2011/77044)"
+    "Fundacao para a Ciencia e Tecnologia (PEST - UID/NEU/04539/2013, COMPETE, POCI 01-0145-FEDER 007440, COMPETE, POCI 01-0145-FEDER 007440)",
+    "MS is supported by the Fundacao para a Ciencia e Tecnologia (grant SFRH/2011/77044)"
   ],
-  "HowToAcknowledge": "If you use these data, please cite the dataset and our paper 'https://www.sciencedirect.com/science/article/pii/S0306452219301332#ac0005'. doi:https://doi.org/10.1016/j.neuroscience.2019.02.024 ",
-  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+  "HowToAcknowledge": "If you use these data, we invite you to cite the dataset and our paper 'https://www.sciencedirect.com/science/article/pii/S0306452219301332'. doi:https://doi.org/10.1016/j.neuroscience.2019.02.024 ",
+  "License": "CC0",
   "Name": "Targeting Dynamic Facial Processing Mechanisms in Superior Temporal Sulcus Using fMRI Neurofeedback ",
   "ReferencesAndLinks": [
-    "https://www.sciencedirect.com/science/article/pii/S0306452219301332#ac0005"
+    "https://www.sciencedirect.com/science/article/pii/S0306452219301332"
   ]
 }
