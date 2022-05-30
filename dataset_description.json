@@ -1,21 +1,22 @@
 {
-    "Acknowledgements": "n/a",
-    "Authors": [
-        "Bruno Direito",
-        "..."
-    ],
-    "BIDSVersion": "1.4.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
-    "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
-    ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-    "License": "CC0",
-    "Name": "Targeting Dynamic Facial Processing Mechanisms in Superior Temporal Sulcus Using fMRI Neurofeedback ",
-    "ReferencesAndLinks": [
-        "TODO",
-        "List of papers or websites"
-    ]
+  "Acknowledgements": "n/a",
+  "Authors": [
+    "Bruno Direito",
+    "Marco Simões",
+    "Alexandre Sayal",    
+    "Miguel Castelo-Branco"
+  ],
+  "BIDSVersion": "1.4.1",
+  "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "Funding": [
+    "European project BRAINTRAIN-FP7-HEALTH-2013-INNOVATION-1-602186",
+    "Fundação para a Ciência e Tecnologia (PEST - UID/NEU/04539/2013, COMPETE, POCI 01-0145-FEDER 007440, COMPETE, POCI 01-0145-FEDER 007440)",
+    "MS is supported by the Fundação para a Ciência e Tecnologia (grant SFRH/2011/77044)"
+  ],
+  "HowToAcknowledge": "If you use these data, please cite the dataset and our paper "https://www.sciencedirect.com/science/article/pii/S0306452219301332#ac0005". doi:https://doi.org/10.1016/j.neuroscience.2019.02.024 ",
+  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+  "Name": "Targeting Dynamic Facial Processing Mechanisms in Superior Temporal Sulcus Using fMRI Neurofeedback ",
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S0306452219301332#ac0005"
+  ]
 }
