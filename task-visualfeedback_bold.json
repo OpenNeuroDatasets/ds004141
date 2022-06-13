@@ -54,7 +54,7 @@
   "SoftwareVersions": "syngo MR B17",
   "SpacingBetweenSlices": 3,
   "StationName": "MRC35377",
-  "TaskName": "TODO: full task name for visualfeedback",
+  "TaskName": "Neurofeedback task using imagery of facial expressions based on a visual interface",
   "TotalReadoutTime": 0.0315,
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 63.0],
