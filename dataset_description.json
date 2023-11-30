@@ -1,13 +1,13 @@
 {
-    "Acknowledgements": "We thank Carlos Ferreira and S\u00f3nia Afonso for assistance with task and participant preparation, Jo\u00e3o Castelhano for assistance with Acquisition protocol and EEG-fMRI setup optimization",
+    "Acknowledgements": "We thank Carlos Ferreira and Sónia Afonso for assistance with task and participant preparation, João Castelhano for assistance with Acquisition protocol and EEG-fMRI setup optimization",
     "Authors": [
         "Bruno Direito",
-        "Marco Sim\u00f5es",
+        "Marco Simões",
         "Alexandre Sayal",
         "Miguel Castelo-Branco"
     ],
     "BIDSVersion": "1.4.1",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004141.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004141.v1.0.2",
     "Funding": [
         "European project BRAINTRAIN-FP7-HEALTH-2013-INNOVATION-1-602186",
         "Fundacao para a Ciencia e Tecnologia (PEST - UID/NEU/04539/2013, COMPETE, POCI 01-0145-FEDER 007440, COMPETE, POCI 01-0145-FEDER 007440)",
