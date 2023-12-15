@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-01_ses-01_run-01_T1w.nii.gz	2015-04-02T15:17:58.060000	n/a	07125d03
-func/sub-01_ses-01_task-faceexplocalizer_run-01_bold.nii.gz	2015-04-02T15:27:05.735000	n/a	d1bf135e
-func/sub-01_ses-01_task-visualfeedback_run-01_bold.nii.gz	2015-04-02T15:34:17.750000	n/a	5c50a0ca
-func/sub-01_ses-01_task-auditoryfeedback_run-01_bold.nii.gz	2015-04-02T15:45:17.762500	n/a	83ecac20
-func/sub-01_ses-01_task-nofeedback_run-01_bold.nii.gz	2015-04-02T15:57:03.757500	n/a	024ab3a2
