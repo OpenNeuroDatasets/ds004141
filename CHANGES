@@ -1,3 +1,5 @@
+1.0.5 2023-12-18
+  - added participants from the sham group to participants.tsv
 1.0.4 2023-12-15
   - added 10 datasets - sham group
   - edited participants .tsv file
