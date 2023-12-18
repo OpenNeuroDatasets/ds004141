@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years (TODO - verify) as in the initial session, might not be correct for other sessions"
+  },
+  "sex": {
+    "Description": "self-rated by participant, M for male/F for female (TODO: verify)"
+  },
+  "group": {
+    "Description": "01 to 10 are from the experimental group and 11 to 20 are from the sham group."
+  }
+}
