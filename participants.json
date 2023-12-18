@@ -9,6 +9,6 @@
     "Description": "self-rated by participant, M for male/F for female (TODO: verify)"
   },
   "group": {
-    "Description": "(TODO: adjust - by default everyone is in control group)"
+    "Description": "01 to 10 are from the experimental group and 11 to 20 are from the sham group."
   }
 }
